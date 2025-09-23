@@ -29,7 +29,7 @@ LIMIT 5;
 
 ## 7.Sample output
 
-
+<img width="1049" height="571" alt="Image" src="https://github.com/user-attachments/assets/36bb4acd-fc99-4120-b29a-6fc642fc2110" />
 
 ## 8.Insights
 - Premium brands don’t always lead in sales
