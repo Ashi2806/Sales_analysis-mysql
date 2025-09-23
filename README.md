@@ -29,6 +29,7 @@ LIMIT 5;
 
 ## 7.Sample output
 <img width="756" height="491" alt="Image" src="https://github.com/user-attachments/assets/a157d086-7b7a-4fd6-ad5b-34a75b42f5f6" />
+
 ## 8.Insights
 - Premium brands don’t always lead in sales
 - Some models underperform despite strong specs
