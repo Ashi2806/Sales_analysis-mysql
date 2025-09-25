@@ -42,10 +42,10 @@ LIMIT 5;
 - Expand to multi-year sales comparison
 
 ## Files Included
-cars_2024.csv - Dataset I used
-cleaned_cars_sales.csv - cleaned dataset with null values
-data_cleaning_cars.sql - cleaning queries 
-eda.sql - EDA queries
+- cars_2024.csv - Dataset I have used for this project
+- cleaned_cars_sales.csv - cleaned dataset with null values
+- data_cleaning_cars.sql - cleaning queries 
+- eda.sql - EDA queries
 
 
 
