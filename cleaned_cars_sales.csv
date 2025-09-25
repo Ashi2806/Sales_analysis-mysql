@@ -1,0 +1,249 @@
+brand_name,model_name,price_in_inr,customer_rating,safety_rating,annual_sales_2024,mileage_min(kmpl),mileage_max(kmpl),min_BHP,max_BHP,sales_status
+"Maruti Suzuki",Brezza,869000,4.5,4,169897,17,25,87,102,Sold
+"Maruti Suzuki",Fronx,754000,4.6,3,134735,20,28,76,99,Sold
+"Maruti Suzuki",Swift,649000,4.6,2,195321,24,32,69,80,Sold
+"Maruti Suzuki",Dzire,684000,4.7,5,164517,24,33,69,80,Sold
+"Maruti Suzuki",Baleno,670000,4.5,4,195607,22,30,76,88,Sold
+"Maruti Suzuki","Grand Vitara",1142000,4.5,5,121169,19,27,87,102,Sold
+"Maruti Suzuki","Wagon R",579000,4.5,1,200177,23,34,56,90,Sold
+"Maruti Suzuki","Alto K10",423000,4.6,2,111955,24,33,56,68,Sold
+"Maruti Suzuki",Ertiga,897000,4.6,3,149757,20,26,87,102,Sold
+"Maruti Suzuki",XL6,1183000,4.4,3,45334,20,26,87,102,Sold
+"Maruti Suzuki",Celerio,564000,NULL,2,39931,24,35,56,66,Sold
+"Maruti Suzuki",Jimny,1276000,3.5,3,17009,16,16,103,103,Sold
+"Maruti Suzuki",Ignis,585000,4.7,3,32463,20,20,82,82,Sold
+"Maruti Suzuki",S-Presso,426000,4.4,1,30139,24,32,56,66,Sold
+"Maruti Suzuki",Ciaz,942000,4.3,4,10337,20,28,89,103,Sold
+"Maruti Suzuki",Eeco,570000,4.6,1,137139,19,26,71,81,Sold
+"Maruti Suzuki",Invicto,2551000,4.6,5,4395,23,23,150,150,Sold
+"Maruti Suzuki","Wagon R Flex Fuel",850000,4.5,2,200177,NULL,NULL,67,89,Sold
+Mahindra,"Scorpio N",1399000,4.7,5,141462,NULL,NULL,130,200,Sold
+Mahindra,"XUV 3XO",799000,4.6,5,53962,17,21,110,129,Sold
+Mahindra,XUV700,1449000,4.6,5,79398,NULL,NULL,153,197,Sold
+Mahindra,"BE 6",1890000,4.7,5,0,NULL,NULL,NULL,NULL,"No sales"
+Mahindra,"Thar Roxx",1299000,4.7,5,0,12,15,150,174,"No sales"
+Mahindra,Thar,1150000,4.7,4,65246,NULL,NULL,117,150,Sold
+Mahindra,"XEV 9e",2190000,4.7,5,0,NULL,NULL,NULL,NULL,"No sales"
+Mahindra,Scorpio,1377000,4.8,4,141462,15,15,130,130,Sold
+Mahindra,Bolero,981000,4.6,3,110841,16,16,75,75,Sold
+Mahindra,"Bolero Neo",997000,4.6,1,110841,17,17,100,100,Sold
+Mahindra,"Bolero Neo Plus",1141000,4.6,NULL,110841,NULL,NULL,118,118,Sold
+Mahindra,XUV400,1549000,3.9,5,8237,NULL,NULL,NULL,NULL,Sold
+Mahindra,Marazzo,1459000,4.3,4,718,17,17,121,121,Sold
+Tata,"Harrier EV",2149000,4.8,5,0,NULL,NULL,200,250,"No sales"
+Tata,Altroz,689000,4.7,5,70162,NULL,NULL,72,89,Sold
+Tata,Nexon,800000,4.6,5,171697,17,24,99,118,Sold
+Tata,Punch,620000,4.4,5,170076,18,26,72,87,Sold
+Tata,Harrier,1500000,4.7,5,24701,14,16,168,168,Sold
+Tata,Tiago,500000,4.4,4,85478,19,28,72,85,Sold
+Tata,Curvv,1000000,4.6,5,0,NULL,NULL,116,123,"No sales"
+Tata,Safari,1550000,4.7,5,21944,14,16,168,168,Sold
+Tata,"Curvv EV",1749000,4.4,5,0,NULL,NULL,200,250,"No sales"
+Tata,"Nexon EV",1249000,4.4,5,0,NULL,NULL,127,143,"No sales"
+Tata,"Punch EV",999000,4.4,5,0,NULL,NULL,120,120,"No sales"
+Tata,"Tiago EV",799000,4.5,4,0,NULL,NULL,73,73,"No sales"
+Tata,Tigor,600000,4.5,4,26921,19,28,72,85,Sold
+Tata,"Tigor EV",1249000,3.6,4,0,NULL,NULL,75,75,"No sales"
+Tata,"Tiago NRG",720000,4.7,4,0,20,26,72,85,"No sales"
+Tata,"Harrier EV Stealth",2705000,4.8,5,0,NULL,NULL,210,210,"No sales"
+Hyundai,Creta,1111000,4.6,3,162773,NULL,NULL,113,158,Sold
+Hyundai,Exter,621000,4.6,3,71301,19,27,68,82,Sold
+Hyundai,Venue,794000,4.6,3,128897,17,23,82,118,Sold
+Hyundai,"Grand i10 Nios",598000,4.5,2,70764,NULL,NULL,68,82,Sold
+Hyundai,Verna,1107000,4.6,5,30027,18,20,113,158,Sold
+Hyundai,i20,704000,4.6,3,69988,NULL,NULL,82,87,Sold
+Hyundai,Aura,654000,4.6,2,55215,NULL,NULL,68,82,Sold
+Hyundai,Alcazar,1499000,4.6,3,20753,NULL,NULL,114,158,Sold
+Hyundai,Tucson,2927000,3.9,5,2883,NULL,NULL,154,184,Sold
+Hyundai,"Creta Electric",1799000,4.7,5,0,NULL,NULL,138,170,"No sales"
+Hyundai,"i20 N Line",999000,4.6,3,0,NULL,NULL,118,118,"No sales"
+Hyundai,"Creta N Line",1693000,4.7,3,0,NULL,NULL,158,158,"No sales"
+Hyundai,"Ioniq 5",4605000,4.5,5,1400,NULL,NULL,217,217,Sold
+Hyundai,"Venue N Line",1215000,4.8,3,0,18,18,118,118,"No sales"
+Toyota,"Urban Cruiser Hyryder",1134000,4.4,5,48916,19,27,87,102,Sold
+Toyota,"Urban Cruiser Taisor",774000,4.6,4,0,19,28,76,99,"No sales"
+Toyota,Glanza,690000,4.6,2,52262,22,30,76,89,Sold
+Toyota,Fortuner,3605000,4.5,5,35063,10,14,164,201,Sold
+Toyota,"Innova Crysta",1999000,4.8,5,98181,NULL,NULL,148,148,Sold
+Toyota,"Innova Hycross",1994000,4.6,5,98181,16,23,173,184,Sold
+Toyota,Vellfire,12200000,4.8,5,400,19,19,142,142,Sold
+Toyota,Hilux,3040000,3.8,3,2986,NULL,NULL,201,201,Sold
+Toyota,Camry,4850000,4.6,NULL,2348,25,25,184,184,Sold
+Toyota,"Fortuner Legender",4451000,4.8,5,35063,14,14,201,201,Sold
+Toyota,Rumion,1054000,4.8,NULL,5973,20,26,87,102,Sold
+Toyota,"Land Cruiser",23100000,4.8,NULL,0,NULL,NULL,304,304,"No sales"
+Kia,Seltos,1119000,4.7,3,100423,17,20,113,158,Sold
+Kia,Sonet,800000,4.4,NULL,81384,NULL,NULL,82,118,Sold
+Kia,"Carens Clavis",1150000,4.6,NULL,0,15,19,113,158,"No sales"
+Kia,Carens,1141000,4.5,3,63167,NULL,NULL,113,158,Sold
+Kia,Syros,950000,4.5,5,0,17,20,114,118,"No sales"
+Kia,Carnival,6391000,2.6,NULL,0,14,14,190,190,"No sales"
+Kia,EV6,6597000,4.8,5,660,NULL,NULL,NULL,NULL,Sold
+Kia,EV9,13000000,4.7,NULL,0,NULL,NULL,NULL,NULL,"No sales"
+BMW,"3 Series LWB",6200000,4.9,NULL,3685,NULL,NULL,188,255,Sold
+BMW,"5 Series",7440000,4.9,5,1242,15,15,255,255,Sold
+BMW,X5,9780000,NULL,NULL,2056,12,12,282,375,Sold
+BMW,M5,19900000,4.9,NULL,0,NULL,NULL,717,717,"No sales"
+BMW,X1,5080000,4.5,5,3454,16,20,134,148,Sold
+BMW,X3,7580000,4.8,5,0,13,17,188,194,"No sales"
+BMW,M340i,7590000,4.8,5,875,13,13,369,369,Sold
+BMW,X7,13100000,4.7,NULL,1570,11,14,335,375,Sold
+BMW,M4,15600000,4.8,5,0,10,10,523,543,"No sales"
+BMW,"7 Series",18400000,4.8,NULL,865,12,16,282,375,Sold
+BMW,"2 Series Gran Coupe",4440000,4.6,5,0,14,18,176,189,"No sales"
+BMW,Z4,9290000,4.7,5,0,12,12,335,335,"No sales"
+BMW,M8,24400000,4.8,5,0,6,8,591,617,"No sales"
+BMW,M2,10300000,4.7,5,0,10,10,453,473,"No sales"
+BMW,"iX1 LWB",4900000,4.7,5,0,NULL,NULL,NULL,NULL,"No sales"
+BMW,XM,26000000,4.7,5,0,61,61,483,644,"No sales"
+BMW,i4,7250000,4.6,5,0,NULL,NULL,NULL,NULL,"No sales"
+BMW,i7,20500000,4.8,5,384,NULL,NULL,NULL,NULL,Sold
+BMW,iX1,6690000,4.3,5,0,10,11,NULL,NULL,"No sales"
+BMW,"X4 M40i",9620000,4.6,5,0,10,10,355,355,"No sales"
+BMW,iX,12100000,4.6,5,1189,NULL,NULL,NULL,NULL,Sold
+BMW,i5,12000000,NULL,5,0,NULL,NULL,601,601,"No sales"
+Skoda,Kylaq,825000,4.8,5,0,19,19,114,114,"No sales"
+Skoda,Slavia,1049000,4.7,5,19092,18,20,114,148,Sold
+Skoda,Kushaq,1099000,4.4,5,23395,18,19,114,148,Sold
+Skoda,Kodiaq,4689000,4.8,NULL,1887,14,14,201,201,Sold
+Mercedes-Benz,"A-Class Limousine",4605000,4.7,5,0,17,17,147,161,"No sales"
+Mercedes-Benz,G-Class,25500000,4.7,5,0,6,6,326,577,"No sales"
+Mercedes-Benz,GLC,7680000,4.7,5,0,NULL,NULL,194,255,"No sales"
+Mercedes-Benz,GLA,5080000,4.8,5,0,NULL,NULL,161,188,"No sales"
+Mercedes-Benz,C-Class,6030000,4.7,5,0,NULL,NULL,197,255,"No sales"
+Mercedes-Benz,E-Class,7950000,4.8,5,0,NULL,NULL,194,375,"No sales"
+Mercedes-Benz,GLS,13400000,4.3,5,0,NULL,NULL,362,375,"No sales"
+Mercedes-Benz,"Maybach S-Class",27700000,4.7,5,0,7,9,496,603,"No sales"
+Mercedes-Benz,GLE,10100000,4.8,5,0,NULL,NULL,265,375,"No sales"
+Mercedes-Benz,S-Class,18600000,4.5,5,0,12,15,282,375,"No sales"
+Mercedes-Benz,"Maybach GLS",33900000,4.6,5,0,NULL,NULL,550,550,"No sales"
+Mercedes-Benz,"AMG GLC43 Coupe",11200000,4.2,5,0,NULL,NULL,416,416,"No sales"
+Mercedes-Benz,EQB,7220000,4.6,5,0,NULL,NULL,NULL,NULL,"No sales"
+Mercedes-Benz,"CLE cabriolet",11100000,4.7,5,0,NULL,NULL,255,255,"No sales"
+Mercedes-Benz,EQA,6720000,NULL,5,0,NULL,NULL,NULL,NULL,"No sales"
+Mercedes-Benz,EQS,13000000,4.6,5,0,NULL,NULL,NULL,NULL,"No sales"
+Mercedes-Benz,"AMG G-Class",37500000,NULL,5,0,NULL,NULL,577,577,"No sales"
+Mercedes-Benz,"G580 with EQ technology",30000000,4.9,5,0,NULL,NULL,NULL,NULL,"No sales"
+Mercedes-Benz,"Maybach SL 680",43500000,NULL,5,0,NULL,NULL,577,577,"No sales"
+Mercedes-Benz,"AMG GLA35",6350000,4.8,5,0,13,13,302,302,"No sales"
+Mercedes-Benz,"AMG C 43",9940000,4.8,5,0,NULL,NULL,402,402,"No sales"
+Mercedes-Benz,"EQS SUV",13100000,NULL,5,0,NULL,NULL,NULL,NULL,"No sales"
+Mercedes-Benz,"AMG SL55 Roadster",24700000,NULL,5,0,NULL,NULL,469,469,"No sales"
+Mercedes-Benz,"AMG A45 S",9480000,4.7,5,0,12,12,421,421,"No sales"
+Mercedes-Benz,"AMG GT 63 S E Performance",33000000,4.4,5,0,NULL,NULL,639,843,"No sales"
+Mercedes-Benz,"AMG GLE Coupe",18800000,4.8,5,0,NULL,NULL,429,429,"No sales"
+Mercedes-Benz,"AMG E53 Cabriolet",13000000,4.8,5,0,NULL,NULL,429,429,"No sales"
+Mercedes-Benz,"Maybach EQS SUV",23500000,NULL,5,0,NULL,NULL,NULL,NULL,"No sales"
+Mercedes-Benz,"EQE SUV",14100000,NULL,5,0,NULL,NULL,NULL,NULL,"No sales"
+Mercedes-Benz,"AMG S 63 E Performance",33000000,4.8,5,0,NULL,NULL,794,794,"No sales"
+Mercedes-Benz,"AMG GT 63 S 4MATIC Plus",27000000,4.9,5,0,8,8,630,630,"No sales"
+Mercedes-Benz,"AMG C 63 S E Performance",19500000,NULL,5,0,NULL,NULL,469,469,"No sales"
+Mercedes-Benz,"AMG EQS",24500000,NULL,5,0,NULL,NULL,NULL,NULL,"No sales"
+Honda,Elevate,1195000,4.6,NULL,33642,15,16,119,119,Sold
+Honda,City,1242000,4.6,5,16925,17,18,119,119,Sold
+Honda,Amaze,814000,4.7,NULL,36017,18,19,89,89,Sold
+Honda,"Amaze 2nd Gen",766000,4.3,4,0,18,24,79,98,"No sales"
+Honda,"City Hybrid eHEV",2089000,4.6,NULL,0,27,27,97,97,"No sales"
+MG,"Windsor EV",1200000,4.6,NULL,0,NULL,NULL,NULL,NULL,"No sales"
+MG,Hector,1425000,4.5,NULL,27435,NULL,NULL,141,170,Sold
+MG,"Comet EV",617000,4.4,NULL,0,NULL,NULL,NULL,NULL,"No sales"
+MG,"ZS EV",1550000,4.1,5,6298,NULL,NULL,NULL,NULL,Sold
+MG,Astor,1130000,4.2,NULL,10569,NULL,NULL,108,138,Sold
+MG,"Hector Plus",1750000,4.4,NULL,0,16,16,141,168,"No sales"
+MG,Gloster,4107000,4.2,5,2450,12,13,158,213,Sold
+"Land Rover",Defender,10500000,4.8,5,1454,6,40,296,626,Sold
+"Land Rover","Range Rover Velar",8790000,4.8,5,756,NULL,NULL,201,247,Sold
+"Land Rover","Range Rover Sport",14500000,4.8,5,0,11,11,346,626,"No sales"
+"Land Rover","Range Rover",24000000,4.7,NULL,0,8,13,334,606,"No sales"
+"Land Rover","Range Rover Evoque",6950000,4.7,5,0,10,14,177,247,"No sales"
+"Land Rover","Discovery Sport",6790000,4.2,5,0,10,13,201,247,"No sales"
+"Land Rover",Discovery,13400000,4.7,5,0,8,13,237,355,"No sales"
+Renault,Triber,615000,4.5,4,22446,18,19,71,71,Sold
+Renault,Kwid,470000,4.4,1,10168,21,22,67,67,Sold
+Renault,Kiger,615000,4.5,4,12825,17,21,71,99,Sold
+Citroen,C3,623000,4.4,NULL,4474,18,19,80,109,Sold
+Citroen,Basalt,832000,4.6,4,0,18,19,80,108,"No sales"
+Citroen,Aircross,862000,4.6,NULL,1832,17,18,80,109,Sold
+Citroen,eC3,1284000,4.4,NULL,2056,NULL,NULL,NULL,NULL,Sold
+Citroen,"C5 Aircross",3999000,4.1,4,56,17,17,174,174,Sold
+Jeep,Compass,1899000,4.2,5,1768,13,17,161,172,Sold
+Jeep,Meridian,2499000,4.4,NULL,1298,14,16,168,168,Sold
+Jeep,Wrangler,6765000,4.8,NULL,345,10,11,268,268,Sold
+Jeep,"Grand Cherokee",6750000,4.3,NULL,123,NULL,NULL,268,268,Sold
+Audi,Q3,4499000,4.7,5,0,14,14,188,192,"No sales"
+Audi,A4,4699000,4.7,5,0,17,17,188,201,"No sales"
+Audi,A6,6572000,4.7,5,0,14,14,241,261,"No sales"
+Audi,Q7,8870000,4.5,5,0,NULL,NULL,335,335,"No sales"
+Audi,Q5,6699000,4.7,5,0,13,13,261,261,"No sales"
+Audi,"S5 Sportback",7777000,4.7,5,0,10,10,349,349,"No sales"
+Audi,Q8,11700000,4.7,5,0,NULL,NULL,335,335,"No sales"
+Audi,"e-tron GT",17200000,4.8,5,0,NULL,NULL,NULL,NULL,"No sales"
+Audi,"Q3 Sportback",5599000,4.7,5,0,NULL,NULL,193,193,"No sales"
+Audi,RS5,11300000,NULL,5,0,10,10,444,444,"No sales"
+Audi,"RS Q8 Performance",24900000,NULL,5,0,NULL,NULL,648,648,"No sales"
+Audi,"A8 L",13400000,4.8,NULL,0,NULL,NULL,344,344,"No sales"
+Audi,"Q8 Sportback e-tron",11900000,NULL,5,0,NULL,NULL,NULL,NULL,"No sales"
+Audi,"Q8 e-tron",11500000,NULL,5,0,NULL,NULL,NULL,NULL,"No sales"
+Audi,"e-tron Sportback",12000000,4.7,5,0,NULL,NULL,NULL,NULL,"No sales"
+Audi,e-tron,10200000,4.7,5,0,NULL,NULL,NULL,NULL,"No sales"
+Nissan,Magnite,614000,4.5,NULL,30147,17,19,71,99,Sold
+Nissan,X-Trail,4992000,2.7,NULL,0,13,13,161,161,"No sales"
+BYD,"Atto 3",2499000,3.9,NULL,3100,NULL,NULL,NULL,NULL,Sold
+BYD,Seal,4100000,4.7,5,1300,NULL,NULL,NULL,NULL,Sold
+BYD,"Sealion 7",4890000,4.8,NULL,0,NULL,NULL,NULL,NULL,"No sales"
+BYD,"eMax 7",2690000,NULL,NULL,0,NULL,NULL,NULL,NULL,"No sales"
+Volvo,XC60,7075000,4.9,5,2200,12,12,250,250,Sold
+Volvo,EX40,5010000,NULL,5,0,NULL,NULL,NULL,NULL,"No sales"
+Volvo,XC90,10400000,4.3,NULL,0,12,12,247,247,"No sales"
+Volvo,EC40,5900000,NULL,5,0,NULL,NULL,408,408,"No sales"
+Porsche,911,19900000,4.7,NULL,156,7,11,380,641,Sold
+Porsche,Cayenne,14200000,4.6,5,454,8,41,335,550,Sold
+Porsche,Macan,9605000,4.7,5,259,10,11,241,434,Sold
+Porsche,Panamera,17000000,4.9,NULL,137,NULL,NULL,349,493,Sold
+Porsche,Taycan,16700000,4.8,NULL,137,NULL,NULL,NULL,NULL,Sold
+Porsche,"Cayenne Coupe",14900000,4.5,5,454,8,41,335,631,Sold
+Porsche,"Macan Turbo EV",12200000,4.7,5,0,NULL,NULL,NULL,NULL,"No sales"
+Lexus,ES,6400000,4.6,5,1400,22,22,176,215,Sold
+Lexus,LX,28200000,4.9,NULL,0,6,6,304,304,"No sales"
+Lexus,NX,6802000,4.4,5,0,17,17,188,188,"No sales"
+Lexus,LM,21000000,4.7,NULL,0,NULL,NULL,190,190,"No sales"
+Lexus,RX,9999000,NULL,5,0,NULL,NULL,190,268,"No sales"
+Lamborghini,"Urus SE",45700000,4.8,NULL,60,NULL,NULL,789,789,Sold
+Lamborghini,Temerario,60000000,4.4,NULL,0,NULL,NULL,800,800,"No sales"
+Lamborghini,Revuelto,88900000,4.7,NULL,62,NULL,NULL,814,814,Sold
+Jaguar,F-Pace,7290000,4.7,5,0,12,19,201,543,"No sales"
+Rolls-Royce,Phantom,95000000,4.8,NULL,0,6,7,453,563,"No sales"
+Rolls-Royce,Cullinan,69500000,4.8,NULL,0,6,6,563,563,"No sales"
+Rolls-Royce,Spectre,75000000,4.9,NULL,0,NULL,NULL,NULL,NULL,"No sales"
+MINI,Cooper,4490000,4.5,NULL,0,NULL,NULL,201,201,"No sales"
+MINI,Countryman,4775000,4.7,5,0,14,19,129,189,"No sales"
+MINI,"Cooper SE",5300000,4.4,NULL,0,NULL,NULL,NULL,NULL,"No sales"
+MINI,"Countryman Electric",5490000,NULL,5,0,NULL,NULL,NULL,NULL,"No sales"
+Ferrari,"Purosangue SUV",105000000,4.6,5,0,NULL,NULL,715,715,"No sales"
+Ferrari,"296 GTB",54000000,NULL,5,0,NULL,NULL,645,645,"No sales"
+Ferrari,Roma,37600000,4.6,5,0,8,8,612,612,"No sales"
+Ferrari,"F8 Tributo",40200000,4.8,5,0,7,7,711,711,"No sales"
+Ferrari,Portofino,35000000,4.8,5,0,8,8,591,591,"No sales"
+Ferrari,"296 GTS",62400000,4.6,5,0,NULL,NULL,663,663,"No sales"
+"Force Motors",Gurkha,1675000,4.5,3,0,NULL,NULL,138,138,"No sales"
+"Force Motors","Trax Cruiser",1383000,4.7,3,0,NULL,NULL,90,90,"No sales"
+Isuzu,V-Cross,2120000,4.8,4,0,NULL,NULL,161,161,"No sales"
+Isuzu,MU-X,3500000,4.6,4,0,NULL,NULL,161,161,"No sales"
+Maserati,Ghibli,12000000,4.7,5,0,8,16,275,581,"No sales"
+Maserati,MC20,36500000,4.9,5,0,8,8,621,621,"No sales"
+Maserati,Levante,14500000,4.5,5,0,9,10,271,430,"No sales"
+Maserati,Quattroporte,18000000,4.4,5,0,8,14,275,572,"No sales"
+Maserati,Grecale,13100000,NULL,5,0,NULL,NULL,296,523,"No sales"
+Maserati,GranTurismo,27200000,NULL,5,0,NULL,NULL,483,542,"No sales"
+"Aston Martin",Vanquish,88500000,4.5,5,0,NULL,NULL,835,835,"No sales"
+"Aston Martin",DB11,32900000,4.5,5,0,8,8,503,600,"No sales"
+"Aston Martin",Vantage,39900000,NULL,5,0,NULL,NULL,656,656,"No sales"
+"Aston Martin",DBX,46300000,4.7,5,11,10,10,542,697,Sold
+"Aston Martin",DB12,45900000,4.6,5,0,NULL,NULL,670,670,"No sales"
+Bentley,Bentayga,41000000,4.9,5,50,7,7,542,542,Sold
+McLaren,750S,59100000,4.8,5,20,NULL,NULL,740,740,Sold
+McLaren,720S,46500000,4.8,5,18,8,8,711,711,Sold
+McLaren,GT,37200000,4.5,5,12,7,7,612,612,Sold
+Lotus,Eletre,25500000,4.5,5,250,NULL,NULL,NULL,NULL,Sold
+Lotus,Emira,32200000,NULL,5,40,NULL,NULL,360,360,Sold
+Lotus,Emeya,23400000,4.8,5,10,NULL,NULL,NULL,NULL,Sold
