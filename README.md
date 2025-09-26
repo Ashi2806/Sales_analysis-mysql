@@ -1,5 +1,5 @@
 ## 1. Project Title
-### Exploratory Data Analysis of Automotive Sales and Performance Using MySQL
+### Exploratory Data Analysis of Automotive Sales and Performance Using MySQL and PowerBI
 
 ## 2. Overview
 This project dives into car sales data using pure SQL—no dashboards, just logic. I cleaned and explored the dataset to uncover patterns in pricing, brand performance, and technical specs like BHP and mileage. Through modular queries and smart segmentation, I surfaced insights that connect raw numbers to real business decisions.
@@ -30,15 +30,28 @@ LIMIT 5;
 ## 7.Sample output
 <img width="756" height="491" alt="Image" src="https://github.com/user-attachments/assets/a157d086-7b7a-4fd6-ad5b-34a75b42f5f6" />
 
-## 8.Insights
+
+## 8.Power BI Dashboard Highlights
+Dashboard Focus:
+          Sales distribution, brand performance, and technical specs (BHP, mileage).
+Visual Elements:
+- Price-tier segmentation using slicers
+- KPI cards for top-selling models
+- Bar charts comparing BHP and mileage across brands
+Design Choices:
+- Color-coded backgrounds for clarity
+- - Accessible layout with clear navigation
+
+## 9.PowerBI Dashboard img
+
+<img width="1190" height="666" alt="Image" src="https://github.com/user-attachments/assets/1dbefa41-1a3c-40d1-aa2f-3c00f36359f0" />
+
+## 10.Insights
 - Premium brands don’t always lead in sales
 - Some models underperform despite strong specs
 - Mileage and BHP vary significantly across price tiers
 
-
 ## 9. Next Steps
-- Add Power BI dashboard
-- Create views for modular reporting
 - Expand to multi-year sales comparison
 
 ## Files Included
@@ -46,6 +59,5 @@ LIMIT 5;
 - cleaned_cars_sales.csv - cleaned dataset with null values
 - data_cleaning_cars.sql - cleaning queries 
 - eda.sql - EDA queries
-
-
+- car_sales.pbix - Powerbi Dashboard can be download as raw and visible in PowerBI desktop
 
