@@ -51,7 +51,7 @@ Design Choices:
 - Some models underperform despite strong specs
 - Mileage and BHP vary significantly across price tiers
 
-## 9. Next Steps
+## Next Steps
 - Expand to multi-year sales comparison
 
 ## Files Included
